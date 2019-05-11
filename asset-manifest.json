@@ -1,11 +1,11 @@
 {
-  "main.css": "/RAMTest/static/css/main.16642a28.chunk.css",
-  "main.js": "/RAMTest/static/js/main.bb23e8c8.chunk.js",
-  "static/js/1.41fd6703.chunk.js": "/RAMTest/static/js/1.41fd6703.chunk.js",
-  "runtime~main.js": "/RAMTest/static/js/runtime~main.422df760.js",
-  "static/media/logo.png": "/RAMTest/static/media/logo.42d6efdb.png",
-  "static/css/main.16642a28.chunk.css.map": "/RAMTest/static/css/main.16642a28.chunk.css.map",
-  "index.html": "/RAMTest/index.html",
-  "precache-manifest.30ae798608f47cf0c92d1e57cd0ec186.js": "/RAMTest/precache-manifest.30ae798608f47cf0c92d1e57cd0ec186.js",
-  "service-worker.js": "/RAMTest/service-worker.js"
+  "main.css": "/RAM-API/static/css/main.16642a28.chunk.css",
+  "main.js": "/RAM-API/static/js/main.bb23e8c8.chunk.js",
+  "static/js/1.41fd6703.chunk.js": "/RAM-API/static/js/1.41fd6703.chunk.js",
+  "runtime~main.js": "/RAM-API/static/js/runtime~main.3ac1b1bc.js",
+  "static/media/logo.png": "/RAM-API/static/media/logo.42d6efdb.png",
+  "static/css/main.16642a28.chunk.css.map": "/RAM-API/static/css/main.16642a28.chunk.css.map",
+  "index.html": "/RAM-API/index.html",
+  "precache-manifest.0a901b8ede9b0b77af6caa837b73c95a.js": "/RAM-API/precache-manifest.0a901b8ede9b0b77af6caa837b73c95a.js",
+  "service-worker.js": "/RAM-API/service-worker.js"
 }
